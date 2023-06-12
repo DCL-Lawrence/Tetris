@@ -10,3 +10,4 @@
     4. K -> ratation
     
 ## Interface
+![image](https://github.com/DCL-Lawrence/Tetris/blob/main/Picture/interface.png)
